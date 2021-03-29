@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "st77xx.h": "c",
+        "dispcolor.h": "c",
+        "string.h": "c",
+        "font.h": "c",
+        "delay.h": "c",
+        "wiringpi.h": "c",
+        "test.h": "c"
+    }
+}
